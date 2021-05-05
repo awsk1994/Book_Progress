@@ -8,6 +8,8 @@
 | Pro Git                            | 2021/04/05 | 2021/04/08 (Completed ch02; skipped several parts in the middle though) | 21% 109/518 (Skipped many parts though.. need to go back and learn) | https://github.com/awsk1994/Pro_Git_notes                          |
 | Design Pattern                     | 2021/04/09 | 2021/04/11                                                              | 22% (5/22 Design Patterns)                                          | https://github.com/awsk1994/Design_Pattern_Notes                   |
 | 深入REACT技术栈 陈屹著             | 2021/04/13 | 2021/04/16                                                              | ~10% 34/366                                                         | https://github.com/awsk1994/Deep_Dive_React_Stack_Notes            |
+| Hadoop权威指南 大数据的存储与分析 | 2021/04/17 | 2021/05/05                                                              | ~9.5% 64/658                                                         | https://github.com/awsk1994/Hadoop_The_Definitive_Guide_Notes            |
+
 
 
 ## 想读的书：
